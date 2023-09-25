@@ -1,0 +1,36 @@
+body {
+font-family: sans-serif;
+}
+
+.qualities
+{   
+    display: flex;
+    
+}
+.text{
+     
+    border: 2px solid gray;
+    border-radius: 10px;
+}
+
+.img{ /*Пропорции картинки*/
+    margin: 0 auto;
+     border: 2px solid gray;
+    border-radius: 10px;
+}
+
+button {
+    margin-left: 550px;
+    margin-top: 50px;
+    width: auto;
+    height: 50px;
+    border-radius: 10px;
+    background: #98ff98;
+    font-size : 20px;
+  }
+  
+
+.img1{ /*Пропорции картинки*/
+    margin: 0 auto;
+    
+}
